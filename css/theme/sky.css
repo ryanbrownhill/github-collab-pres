@@ -8,6 +8,9 @@
 .reveal a {
   line-height: 1.3em; }
 
+.text-bg {
+  background-color: white; }
+
 /*********************************************
  * GLOBAL STYLES
  *********************************************/
